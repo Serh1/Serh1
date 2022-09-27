@@ -1,4 +1,4 @@
-# 👋 Hello!
+# 👋 Hello! 📄[About Me.](https://serh1.github.io/responsive-portfolio)
 
 ### 📈 Stats:
   [![Sergiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serh1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
