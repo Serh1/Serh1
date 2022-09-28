@@ -1,9 +1,10 @@
 # 👋 Hello! - 📄[About Me.](https://serh1.github.io/responsive-portfolio)
 
 ### 📈 Stats:
-  [![Sergiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serh1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🖥️ Languages:
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serh1&show_icons=true&theme=tokyonight&hide=java,blade,hack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Serh1&show_icons=true&theme=tokyonight" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serh1&show_icons=true&theme=tokyonight&hide=hack&&langs_count=8&layout=compact" /></div>
+</div>
 
