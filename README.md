@@ -1,4 +1,4 @@
-# Hey World!
+# Hello Reviewer!
 I'm a Full-Stack developer on both, web & mobile applications. I'm currently studying a master's degree in Applied Informatics and I graduated with a bachelor's degree in Automation and Computer Science in Cluj-Napoca.
 
 My favorite programming technologies for the frontend are Angular/React, Javascript and Tailwind, and for the backend, Java, Spring Boot and postman/swagger.
